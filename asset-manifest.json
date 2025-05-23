@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LuckyBeds-PG-Hostel/static/css/main.89ed3b03.css",
-    "main.js": "/LuckyBeds-PG-Hostel/static/js/main.5dfc1bb1.js",
+    "main.js": "/LuckyBeds-PG-Hostel/static/js/main.d14d83d3.js",
     "static/js/453.112de773.chunk.js": "/LuckyBeds-PG-Hostel/static/js/453.112de773.chunk.js",
     "index.html": "/LuckyBeds-PG-Hostel/index.html",
     "main.89ed3b03.css.map": "/LuckyBeds-PG-Hostel/static/css/main.89ed3b03.css.map",
-    "main.5dfc1bb1.js.map": "/LuckyBeds-PG-Hostel/static/js/main.5dfc1bb1.js.map",
+    "main.d14d83d3.js.map": "/LuckyBeds-PG-Hostel/static/js/main.d14d83d3.js.map",
     "453.112de773.chunk.js.map": "/LuckyBeds-PG-Hostel/static/js/453.112de773.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89ed3b03.css",
-    "static/js/main.5dfc1bb1.js"
+    "static/js/main.d14d83d3.js"
   ]
 }
