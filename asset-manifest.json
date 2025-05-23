@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shama-khann/LuckyBeds-PG-Hostel/static/css/main.43bed7b9.css",
+    "main.js": "/shama-khann/LuckyBeds-PG-Hostel/static/js/main.6fa95512.js",
+    "static/js/453.112de773.chunk.js": "/shama-khann/LuckyBeds-PG-Hostel/static/js/453.112de773.chunk.js",
+    "index.html": "/shama-khann/LuckyBeds-PG-Hostel/index.html",
+    "main.43bed7b9.css.map": "/shama-khann/LuckyBeds-PG-Hostel/static/css/main.43bed7b9.css.map",
+    "main.6fa95512.js.map": "/shama-khann/LuckyBeds-PG-Hostel/static/js/main.6fa95512.js.map",
+    "453.112de773.chunk.js.map": "/shama-khann/LuckyBeds-PG-Hostel/static/js/453.112de773.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43bed7b9.css",
+    "static/js/main.6fa95512.js"
+  ]
+}
